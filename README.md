@@ -1,6 +1,10 @@
 # Amazon cloudfront: Create a distribution + Lambda (Tutorial) 
 
-The finished repository of the tutorial [Amazon Cloudfront: Create a distribution + Lambda (tutorial)](https://www.jerrychang.ca/writing/amazon-cloudfront-create-a-distribution).
+The finished repository of the tutorial [Amazon Cloudfront: Origin request policy (tutorial)](https://www.jerrychang.ca/writing/amazon-cloudfront-origin-request-policy).
+
+# Goal
+
+Learn how to add origin request policy to your Cloudfront distribution using terraform
 
 # Getting started
 
